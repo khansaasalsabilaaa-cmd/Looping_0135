@@ -28,7 +28,7 @@ void pilihanJurusan() {
             namaJurusan = "Teknologi Elektro";
             statusKuota = "Kuota Penuh"
             break;
-        
+        case 3:
     }
     }
 }
