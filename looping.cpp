@@ -28,11 +28,11 @@ int main(){
     cout<<endl;
 }
 
-Logika not
+// Logika not
 #include <iostream>
 using namespace std;
 
-int main(){
+/*int main(){
     float nilB,nilM,rerata;
     string status;
 
@@ -50,11 +50,13 @@ int main(){
     
         cout<<"Status kelulusan = "<<status<<" ,dengan nilai rata-rata = "<<rerata<<endl;
 }
-Logika OR
+*/
+
+// Logika OR
 #include <iostream>
 using namespace std;
 
-int main(){
+/*int main(){
     float nilB,nilM,rerata;
     string status;
     cout<<"Masukkan nilai Matematika = ";
@@ -71,12 +73,13 @@ int main(){
     
     cout<<"Status kelulusan = "<<status<<" ,dengan nilai rata-rata = "<<rerata<<endl;
 }
+*/
 
-Logika AND
+// Logika AND
 #include <iostream>
 using namespace std;
 
-int main(){
+/*int main(){
     float nilB,nilM,rerata;
     string status;
 
@@ -94,3 +97,4 @@ int main(){
     
     cout<<"Status kelulusan = "<<status<<" ,dengan nilai rata-rata = "<<rerata<<endl;
 }
+*/
